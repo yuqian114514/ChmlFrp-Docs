@@ -54,12 +54,50 @@ editLink: true
 <ClientOnly>
   <div class="wechat-group-card">
     <div class="wechat-group-header">
-      <div class="wechat-group-title">微信一群</div>
+      <div class="wechat-group-title">微信群</div>
     </div>
     <div class="wechat-group-body">
-    我们暂无微信群，预计未来开放
-      <!-- <p>扫码加入TechCat企业微信群</p> -->
-      <!-- <img src="/path/to/wechat-qr1.png" alt="微信群二维码" width="150"> -->
+      <p>扫码加入ChmlFrp企业微信群（我们并不推荐通过此方式获取支持，如果需要更及时的响应，推荐加入qq群）</p>
+      <img src="/img/1.jpg" alt="微信群二维码" width="150">
+    </div>
+  </div>
+</ClientOnly>
+
+</div>
+
+## 📧 联系邮箱
+
+<div class="qq-group-container">
+
+<ClientOnly>
+  <div class="qq-group-card">
+    <div class="qq-group-header">
+      <div class="qq-group-title">服务使用与技术支持</div>
+    </div>
+    <div class="qq-group-body">
+      <p>对于服务使用中的一般性问题、技术故障或账户咨询，请通过 <code>support@chcat.cn</code> 联系我们</p>
+    </div>
+  </div>
+</ClientOnly>
+
+<ClientOnly>
+  <div class="qq-group-card">
+    <div class="qq-group-header">
+      <div class="qq-group-title">违规与滥用行为举报</div>
+    </div>
+    <div class="qq-group-body">
+      <p>如果您发现任何用户存在违反服务条款的行为（如发布非法信息、进行网络攻击等），请通过 <code>abuse@chcat.cn</code> 向我们举报，并请提供尽可能详细的证据（如违规URL、截图、时间等）</p>
+    </div>
+  </div>
+</ClientOnly>
+
+<ClientOnly>
+  <div class="qq-group-card">
+    <div class="qq-group-header">
+      <div class="qq-group-title">条款与法律事务</div>
+    </div>
+    <div class="qq-group-body">
+      <p>如果您对服务条款有任何疑问、异议或需要就法律相关事宜进行沟通，请通过 <code>legal@chcat.cn</code> 联系我们</p>
     </div>
   </div>
 </ClientOnly>
