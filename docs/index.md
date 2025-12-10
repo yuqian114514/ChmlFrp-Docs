@@ -12,7 +12,7 @@ hero:
       icon: ⚡️
     - theme: alt
       text: 立即使用
-      link: https://www.chmlfrp.cn
+      link: https://www.chmlfrp.net
       icon: 📦
       target: _blank
     - theme: alt

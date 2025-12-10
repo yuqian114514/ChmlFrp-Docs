@@ -10,7 +10,7 @@
 
 ![无法连接至服务器: i/o deadline reached报错截图](./img/frpc/1.webp)
 
-**解决方法为更换节点**，可以前往[ChmlFrp监控](https://panel.chmlfrp.cn/tunnel/status)查看节点状态。
+**解决方法为更换节点**，可以前往[ChmlFrp监控](https://panel.chmlfrp.net/tunnel/status)查看节点状态。
 
 ## 客户端代理参数错误,配置文件与记录不匹配
 

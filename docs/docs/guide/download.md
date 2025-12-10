@@ -1,4 +1,4 @@
-# [下载页面](https://panel.chmlfrp.cn/tunnel/download)软件下载的选择
+# [下载页面](https://panel.chmlfrp.net/tunnel/download)软件下载的选择
 在ChmlFrp下载中心页面通常会有
 amd64 386 arm arm64 mips mipsle mips64 mips64le riscv64这几个指令集架构的选择
 除此了这些之外还有个图形客户端的选择

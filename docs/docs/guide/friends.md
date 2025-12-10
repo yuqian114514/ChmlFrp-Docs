@@ -1,4 +1,4 @@
-# [ChmlFrp](https://www.chmlfrp.cn)友链申请须知
+# [ChmlFrp](https://www.chmlfrp.net)友链申请须知
 ChmlFrp是一款不限流量，免费高速且稳定的端口映射工具。
 此页面用于公示ChmlFrp友链申请的条件及方法。
 
@@ -25,7 +25,7 @@ ChmlFrp是一款不限流量，免费高速且稳定的端口映射工具。
 
 **其他：**
 我们不接受团队(企业)官网的友链(比如chcat.cn这类的官网)，除非您为我们的合作商。
-我们接受产品官网(比如chmlfrp.cn这类的产品网站)。
+我们接受产品官网(比如chmlfrp.net这类的产品网站)。
 
 ------------
 
@@ -51,8 +51,8 @@ ChmlFrp是一款不限流量，免费高速且稳定的端口映射工具。
 
 **示例代码：**
 ```html
-<a href="https://www.chmlfrp.cn">
-    <img src="https://chmlfrp.cn/favicon.ico">
+<a href="https://www.chmlfrp.net">
+    <img src="https://chmlfrp.net/favicon.ico">
 </a>
 ```
 
@@ -119,6 +119,6 @@ ChmlFrp的申请友链并不是长期开放并长期挂载，我们可能会在�
 
 ------------
 
-Copyright © 2021 - 2025 [ChmlFrp](https://www.chmlfrp.cn) All rights reserved.
+Copyright © 2021 - 2025 [ChmlFrp](https://www.chmlfrp.net) All rights reserved.
 
 修订版本：2025-10-10版

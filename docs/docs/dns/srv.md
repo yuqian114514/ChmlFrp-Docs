@@ -40,7 +40,7 @@ SRV解析一般用于MCJAVA服务端隐藏端口连接服务器等，此教程�
  - 端口：填写chmlfrp中给出的外网端口
  - 目标：填写chmlfrp的节点域名
 
-假如您的MC链接地址为：bj.frp.one:12345，再假如您的域名为chmlfrp.cn，然后您想通过mc.chmlfrp.cn进服务器，则这样填：
+假如您的MC链接地址为：bj.frp.one:12345，再假如您的域名为chmlfrp.net，然后您想通过mc.chmlfrp.net进服务器，则这样填：
 
  - 类型：SRV
  - 名称：mc

@@ -29,7 +29,7 @@ A:
 ### 1.1 登录控制台
 
 1. **访问官网**
-   - 打开 [ChmlFrp官网](https://chmlfrp.cn)
+   - 打开 [ChmlFrp官网](https://chmlfrp.net)
    - 点击"管理面板"按钮
 
 ![首页截图](./img/mapping/1.webp)
@@ -99,7 +99,7 @@ A:
 ### 下载frpc客户端
 
 1. **访问下载页面**
-   - 打开 [ChmlFrp软件下载页面](https://panel.chmlfrp.cn/tunnel/download)
+   - 打开 [ChmlFrp软件下载页面](https://panel.chmlfrp.net/tunnel/download)
    - 选择Windows版本
 
 ![软件下载截图](./img/mapping/windowsfrpc1.webp)
@@ -126,7 +126,7 @@ A:
 ![frpcini截图](./img/mapping/windowsfrpc4.webp)
 
 2. **获取配置文件**
-   - 打开 [ChmlFrp配置文件页面](https://panel.chmlfrp.cn/tunnel/config)
+   - 打开 [ChmlFrp配置文件页面](https://panel.chmlfrp.net/tunnel/config)
    - 依次进行以下操作：
      - 选择要映射的隧道节点
      - 点击"生成配置文件"
@@ -225,7 +225,7 @@ cd frp_ChmlFrp-0.51.2_251023_linux_amd64
 ![进入到解压后的文件夹截图](./img/mapping/16.webp)
 
 3. **获取配置文件**
-   - 访问 [ChmlFrp控制面板](https://panel.chmlfrp.cn)
+   - 访问 [ChmlFrp控制面板](https://panel.chmlfrp.net)
    - 依次点击"隧道管理" → "配置文件"
    - 选择节点并生成配置文件
 
@@ -287,7 +287,7 @@ nohup ./frpc -c frpc.ini >/dev/null 2>&1 &
 ### 下载frpc客户端
 
 1. **访问下载页面**
-   - 打开 [ChmlFrp软件下载页面](https://panel.chmlfrp.cn/tunnel/download)
+   - 打开 [ChmlFrp软件下载页面](https://panel.chmlfrp.net/tunnel/download)
    - 系统选择 `Darwin`
    - 根据您的Mac芯片选择对应架构：
      - **M1/M2芯片**：选择 `arm64`
@@ -304,7 +304,7 @@ nohup ./frpc -c frpc.ini >/dev/null 2>&1 &
 ### 配置frpc
 
 1. **获取配置文件**
-   - 访问 [ChmlFrp控制面板](https://panel.chmlfrp.cn)
+   - 访问 [ChmlFrp控制面板](https://panel.chmlfrp.net)
    - 前往"隧道管理" → "配置文件"页面
    - 生成要启动的配置文件并复制
 

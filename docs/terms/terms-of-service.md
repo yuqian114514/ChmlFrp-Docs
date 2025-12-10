@@ -202,7 +202,7 @@ ChmlFrp 服务及其所有内容受知识产权法保护，包括但不限于：
 如果您对这些服务条款有任何疑问，请通过以下方式联系我们：
 
 - 邮箱：legal@chcat.cn
-- 网站：https://www.chmlfrp.cn
+- 网站：https://www.chmlfrp.net
 
 ---
 

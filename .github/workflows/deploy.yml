@@ -73,13 +73,13 @@ jobs:
         script: |
           echo "🚀 开始部署 ChmlFrp 文档..."
           
-          sudo rm -rf /www/wwwroot/docs.chmlfrp.cn/*
+          sudo rm -rf /www/wwwroot/docs.chmlfrp.net/*
           
-          sudo cp -r /tmp/vitepress-deploy/* /www/wwwroot/docs.chmlfrp.cn/
+          sudo cp -r /tmp/vitepress-deploy/* /www/wwwroot/docs.chmlfrp.net/
           
-          sudo chown -R www:www /www/wwwroot/docs.chmlfrp.cn/ 2>/dev/null || sudo chown -R www-data:www-data /www/wwwroot/docs.chmlfrp.cn/ 2>/dev/null || true
-          sudo find /www/wwwroot/docs.chmlfrp.cn -type f -exec chmod 644 {} \; 2>/dev/null || true
-          sudo find /www/wwwroot/docs.chmlfrp.cn -type d -exec chmod 755 {} \; 2>/dev/null || true
+          sudo chown -R www:www /www/wwwroot/docs.chmlfrp.net/ 2>/dev/null || sudo chown -R www-data:www-data /www/wwwroot/docs.chmlfrp.net/ 2>/dev/null || true
+          sudo find /www/wwwroot/docs.chmlfrp.net -type f -exec chmod 644 {} \; 2>/dev/null || true
+          sudo find /www/wwwroot/docs.chmlfrp.net -type d -exec chmod 755 {} \; 2>/dev/null || true
           
           sudo rm -rf /tmp/vitepress-deploy
           

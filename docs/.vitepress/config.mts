@@ -209,6 +209,6 @@ export default defineConfig({
     }
   },
   sitemap: {
-    hostname: 'https://docs.chmlfrp.cn'
+    hostname: 'https://docs.chmlfrp.net'
   }
 })

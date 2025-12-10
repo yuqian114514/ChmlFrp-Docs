@@ -60,7 +60,7 @@ CNAME解析的工作原理：
    - **目标**：填写ChmlFrp提供的解析地址
 
 > **💡 配置示例**  
-> 假设您的隧道解析地址为：`bj.frp.one`，域名为：`chmlfrp.cn`，想要通过 `wz.chmlfrp.cn` 访问服务：
+> 假设您的隧道解析地址为：`bj.frp.one`，域名为：`chmlfrp.net`，想要通过 `wz.chmlfrp.net` 访问服务：
 > - **类型**：CNAME
 > - **名称**：wz
 > - **目标**：bj.frp.one

@@ -23,7 +23,7 @@ A记录（Address Record）是DNS解析中最常用的记录类型，用于将�
 ### 1. 查看ChmlFrp连接地址
 
 1. **登录控制台**
-   - 访问 [ChmlFrp控制台](https://panel.chmlfrp.cn)
+   - 访问 [ChmlFrp控制台](https://panel.chmlfrp.net)
    - 进入"隧道列表"页面
 
 2. **获取连接地址**

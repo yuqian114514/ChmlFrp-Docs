@@ -217,7 +217,7 @@ python ./tools/convert_png_to_webp.py ./docs --quality 90 --delete-original
 
 <div align="center">
 
-**[ChmlFrp](https://www.chmlfrp.cn)** • **[文档](https://docs.chmlfrp.cn)**
+**[ChmlFrp](https://www.chmlfrp.net)** • **[文档](https://docs.chmlfrp.net)**
 
 Made with ❤️ by ChmlFrp Team
 

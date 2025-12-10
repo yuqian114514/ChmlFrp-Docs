@@ -231,7 +231,7 @@ ChmlFrp 重视您的隐私权。本隐私政策说明了我们如何收集、使
 如果您对本隐私政策有任何疑问，请通过以下方式联系我们：
 
 - 邮箱：legal@chcat.cn
-- 网站：https://www.chmlfrp.cn
+- 网站：https://www.chmlfrp.net
 
 ## 14. 监管机构
 

@@ -58,7 +58,7 @@
 如果想让异地的朋友也能加入游戏，需要使用端口映射：
 
 1. **创建隧道**
-   - 登录 [ChmlFrp控制台](https://panel.chmlfrp.cn)
+   - 登录 [ChmlFrp控制台](https://panel.chmlfrp.net)
    - 创建新隧道，内网端口填写游戏显示的端口号
    - 隧道类型选择 **TCP**
 
@@ -177,7 +177,7 @@ pause
 为了让外网玩家能够连接您的服务器，需要配置端口映射：
 
 1. **创建隧道**
-   - 登录 [ChmlFrp控制台](https://panel.chmlfrp.cn)
+   - 登录 [ChmlFrp控制台](https://panel.chmlfrp.net)
    - 创建新隧道，配置如下：
      - **内网地址**：`127.0.0.1`
      - **内网端口**：`25565`（MC默认端口）

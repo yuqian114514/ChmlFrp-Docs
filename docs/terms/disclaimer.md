@@ -302,8 +302,8 @@ ChmlFrp 提供内网穿透服务，旨在帮助用户通过互联网访问本地
 
 如果您对本免责声明有任何疑问，请通过以下方式联系我们：
 
-- 邮箱：legal@chmlfrp.cn
-- 网站：https://www.chmlfrp.cn
+- 邮箱：legal@chmlfrp.net
+- 网站：https://www.chmlfrp.net
 
 ## 16. 其他条款
 

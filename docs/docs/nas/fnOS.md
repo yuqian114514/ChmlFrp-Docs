@@ -15,7 +15,7 @@
 
 ### 1.1 进入隧道管理页面
 
-1. 登录 [ChmlFrp控制台](https://panel.chmlfrp.cn)
+1. 登录 [ChmlFrp控制台](https://panel.chmlfrp.net)
 2. 在左侧菜单中点击"隧道列表"
 3. 点击【添加隧道】按钮
 

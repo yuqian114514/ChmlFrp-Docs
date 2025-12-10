@@ -2,7 +2,7 @@
 
 ## 被控端
 
-访问[chmlfrp官网](https://panel.chmlfrp.cn)
+访问[chmlfrp官网](https://panel.chmlfrp.net)
 
 进行创建隧道
 
