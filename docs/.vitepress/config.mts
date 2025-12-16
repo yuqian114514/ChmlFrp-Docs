@@ -208,7 +208,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2021-2025 | <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2025175860号-1</a>'
+      copyright: 'Copyright © 2021-2025<br><a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2025175860号-1</a> | <a href="https://beian.mps.gov.cn/#/query/webSearch?code=川公网安备51132202000197号" target="_blank">川公网安备51132202000197号</a>'
     }
   },
   sitemap: {
