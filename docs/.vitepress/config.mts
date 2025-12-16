@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "ChmlFrp | 使用文档 - Docs",
   description: "这里是ChmlFrp的官方使用文档，包含多平台映射创建、启动教程。除此之外，这里还有更多额外配置教程，例如通过ChmlFrp进行MC开服、TS语音、Web搭建、远程服务教程。",
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/favicon.ico',
@@ -205,7 +208,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2021-2025'
+      copyright: 'Copyright © 2021-2025<br><a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2025175860号-1</a> | <a href="https://beian.mps.gov.cn/#/query/webSearch?code=川公网安备51132202000197号" target="_blank">川公网安备51132202000197号</a>'
     }
   },
   sitemap: {
