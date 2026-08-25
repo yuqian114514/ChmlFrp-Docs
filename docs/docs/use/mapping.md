@@ -145,6 +145,17 @@ ChmlFrp提供图形化客户端（ChmlFrpLauncher），支持Windows、macOS和L
 ![隧道日志界面](./img/mapping/gui-tunnel-log.webp)
 
 
+## 使用mcsm frp模板集市快捷启动
+
+  <a class="group-card" href="/docs/use/mcsm">
+    <div class="card-icon">🚀</div>
+    <div class="card-content">
+      <h3>mcsm frp模板集市</h3>
+      <p>手残党也会用</p>
+    </div>
+  </a>
+</div>
+
 ## Windows系统启动（Frpc）
 
 > **💡 提示**  

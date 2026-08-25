@@ -20,6 +20,13 @@
       <p>选择合适的客户端版本</p>
     </div>
   </a>
+  <a class="group-card" href="/docs/use/mcsm">
+    <div class="card-icon">🚀</div>
+    <div class="card-content">
+      <h3>mcsm frp模板集市</h3>
+      <p>手残党也会用</p>
+    </div>
+  </a>
 </div>
 
 ## 🎮 游戏联机
